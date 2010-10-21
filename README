@@ -1,0 +1,4 @@
+This is a small program that uses ruby-usb and libusb to read
+from a MagTek magnetic card reader.  This is to be used in a
+larger application for doing automated credit card checkouts
+for a charity auction.
